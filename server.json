@@ -1,6 +1,6 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-07-09/server.schema.json",
-  "name": "dev.praxec/log-analyzer",
+  "name": "io.github.praxec/log-analyzer",
   "description": "Log/build analysis MCP server — parse, grep, level counts, query, summarize.",
   "version": "0.1.0",
   "repository": { "url": "https://github.com/praxec/log-analyzer", "source": "github" },
