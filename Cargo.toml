@@ -2,6 +2,7 @@
 name = "log-analyzer"
 version = "0.1.0"
 edition = "2024"
+rust-version = "1.85"
 
 [dependencies]
 rmcp = { version = "1.7", default-features = false, features = ["server", "macros", "transport-io"] }
