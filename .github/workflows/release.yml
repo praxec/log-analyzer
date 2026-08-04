@@ -39,6 +39,7 @@ jobs:
           bin: log-analyzer
           target: ${{ matrix.target }}
           archive: log-analyzer-${{ matrix.target }}
+          checksum: sha256
           token: ${{ secrets.GITHUB_TOKEN }}
 
   image:
